@@ -1,5 +1,10 @@
-<center><img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png"></center>
-Rest Api Aplication builded on PHP server and data from SQL database.<br>
-<strong>Back-end: PHP, SQL.</strong><br>
-<strong>Front-end: JQuery, Ajax, Json.</strong><br>
-<a href="http://api.ibstudio.org/">DEMO</a></center>
+
+<h2>Template for company website which selling heart reat monitors.</h2><br>
+<h3>Features:</h3>
+<strong>1. Modal windows</strong><br>
+<strong>2. Forms</strong><br>
+<strong>3. Tabs</strong><br>
+<strong>4. Slider</strong><br>
+<strong>5. Sending mail</strong><br>
+
+<a href="https://runsmart.ibstudio.org/">DEMO</a></center>
