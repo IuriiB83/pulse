@@ -1,5 +1,5 @@
 
-<h3>Template for company website which selling heart reat monitors.</h3><br>
+<h3>Template for company website which selling heart rate monitors.</h3><br>
 <h4>Features:</h4>
 <strong>1. Modal windows</strong><br>
 <strong>2. Forms</strong><br>
